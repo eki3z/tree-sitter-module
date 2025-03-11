@@ -36,6 +36,7 @@ languages=(
     'java'
     'javascript'
     'jq'
+    'jsdoc'
     'json'
     'julia'
     'kotlin'
